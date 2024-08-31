@@ -1,6 +1,21 @@
 # Proyek-Dasar-Elektronika
-Proyek Alarm Anti Maling ini melibatkan desain rangkaian elektronika yang mencakup ketepatan penggunaan komponen, kerapian soldering pada PCB, dan hasil produk akhir yang baik. Sistem ini menggunakan resistor, kapasitor, dan IC Timer NE555 dengan catu daya 12V."
 
+Proyek ini merupakan pengembangan sistem Alarm Anti Maling yang dirancang untuk memberikan perlindungan keamanan melalui sensor dan rangkaian elektronika. Mahasiswa bertanggung jawab atas desain rangkaian fisik yang meliputi:
 
+Ketepatan Penggunaan Komponen: Penggunaan resistor, kapasitor, dan IC Timer NE555 dengan nilai-nilai yang sudah ditentukan.
+Kerapian Soldering: Penyusunan dan penyolderan komponen pada papan PCB untuk memastikan koneksi yang andal.
+Hasil Produk Akhir: Sistem alarm yang berfungsi dengan catu daya 12V.
+Spesifikasi Komponen:
 
-jhuih
+	Resistor:
+•	R1: 10 kΩ
+•	R2: 68 kΩ
+•	R3: 1 kΩ
+
+	Kapasitor:
+•	C1: 1 µF/15V (polar)
+•	C2-C3: 0,01 µF
+•	IC Timer: NE555
+
+	Catu Daya: 12V
+
