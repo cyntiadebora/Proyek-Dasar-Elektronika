@@ -7,15 +7,15 @@ Kerapian Soldering: Penyusunan dan penyolderan komponen pada papan PCB untuk mem
 Hasil Produk Akhir: Sistem alarm yang berfungsi dengan catu daya 12V.
 Spesifikasi Komponen:
 
-	Resistor:
+1.	Resistor:
 •	R1: 10 kΩ
 •	R2: 68 kΩ
 •	R3: 1 kΩ
 
-	Kapasitor:
+2.	Kapasitor:
 •	C1: 1 µF/15V (polar)
 •	C2-C3: 0,01 µF
 •	IC Timer: NE555
 
-	Catu Daya: 12V
+3.	Catu Daya: 12V
 
