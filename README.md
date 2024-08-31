@@ -26,6 +26,9 @@ Berikut ini adalah gambar dari desain rangkaian yang telah berfungsi:
 
 ![image](https://github.com/user-attachments/assets/773e4569-5a9a-4d6f-b707-6251daa3c6cb)
 
+![image](https://github.com/user-attachments/assets/4ff81172-e27d-4b3b-af1a-b3c2f7cc31b2)
+
+
 
 
 
