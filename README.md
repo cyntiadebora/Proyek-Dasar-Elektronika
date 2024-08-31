@@ -1,6 +1,6 @@
 # Proyek-Dasar-Elektronika
 
-Proyek ini merupakan desain fisik dari sistem Alarm Anti Maling yang sederhana, dirancang untuk memberikan perlindungan keamanan melalui penggunaan sensor dan rangkaian elektronika. Cara kerja alat ini adalah ketika terdeteksi adanya gerakan, buzzer akan berbunyi
+Proyek ini merupakan desain fisik dari sistem Alarm Anti Maling yang sederhana, dirancang untuk memberikan perlindungan keamanan melalui penggunaan sensor dan rangkaian elektronika. Cara kerja alat ini adalah ketika terdeteksi adanya gerakan, buzzer akan berbunyi.
 
 ### Spesifikasi Komponen:
 
