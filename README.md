@@ -19,3 +19,10 @@ Spesifikasi Komponen:
 
 3.	Catu Daya: 12V
 
+Berikut ini adalah gambar dari rangkaian:
+![image](https://github.com/user-attachments/assets/3195c303-fa01-4873-8bf8-a230e2c1aba1)
+
+Berikut ini adalah gambar dari desain rangkaian yang telah berfungsi:
+
+
+
