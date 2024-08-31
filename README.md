@@ -23,6 +23,16 @@ Berikut ini adalah gambar dari rangkaian:
 ![image](https://github.com/user-attachments/assets/3195c303-fa01-4873-8bf8-a230e2c1aba1)
 
 Berikut ini adalah gambar dari desain rangkaian yang telah berfungsi:
+![image](https://github.com/user-attachments/assets/481462fc-19fd-4587-bf02-3f9f341a63b3)
+
+![image](https://github.com/user-attachments/assets/72ea1e5e-ce93-4bae-a2f2-031069578edd)
+
+![image](https://github.com/user-attachments/assets/c3358815-80ac-4be2-b68e-c452cfb4f3e7)
+
+
+
+
+
 
 
 
